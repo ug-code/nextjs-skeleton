@@ -1,5 +1,5 @@
 {
-  "name": "nextjsskeleton",
+  "name": "nextjs-skeleton",
   "private": true,
   "scripts": {
     "dev": "next dev",
